@@ -1,4 +1,4 @@
-26042216376696827
+26045722885625876
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104062,6 +104062,13 @@ Varistor VF
 2
 2
 fram_memory_module_footprints
+C0603
+C0603 footprint
+C0603 footprint C19702
+0
+2
+2
+fram_memory_module_footprints
 M.2-CARD-E-22_MEMORY_STANDARD
 
 
@@ -104082,3 +104089,10 @@ R0603 footprint C25804
 0
 2
 2
+fram_memory_module_footprints
+SMD_slide_switch
+SW-SMD_MS-1290N footprint
+SW-SMD_MS-1290N footprint C19188866
+0
+3
+3
