@@ -83,6 +83,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
+		(aux_axis_origin 142.5 110)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -4420,13 +4421,13 @@
 		)
 	)
 	(gr_text "Board thickness: 0.8 mm"
-		(at 104.5 125.25 0)
+		(at 105.5 125.25 0)
 		(layer "F.Fab")
 		(uuid "b8f32163-99a0-4512-8959-9a64ec7ee230")
 		(effects
 			(font
 				(size 5 5)
-				(thickness 1.25)
+				(thickness 1)
 				(bold yes)
 			)
 			(justify left bottom)
