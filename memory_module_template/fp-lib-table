@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "memory_module_footprints")(type "KiCad")(uri "${KIPRJMOD}/memory_module_footprints.pretty")(options "")(descr ""))
+)

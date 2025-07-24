@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "memory_module_symbols")(type "KiCad")(uri "${KIPRJMOD}/memory_module_symbols.kicad_sym")(options "")(descr ""))
+)
