@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SD_Card_Mod_Lib")(type "KiCad")(uri "${KIPRJMOD}/SD_Card_Mod_Lib.kicad_sym")(options "")(descr ""))
+)
